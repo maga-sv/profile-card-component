@@ -34,11 +34,11 @@
         <span class="card__stats-card-name">Followers</span>
       </div>
       <div class="card__stats-card">
-        <span class="card__stats-card-num">80K</span>
+        <span class="card__stats-card-num">803K</span>
         <span class="card__stats-card-name">Likes</span>
       </div>
       <div class="card__stats-card">
-        <span class="card__stats-card-num">80K</span>
+        <span class="card__stats-card-num">1.4K</span>
         <span class="card__stats-card-name">Photos</span>
       </div>
     </div>
