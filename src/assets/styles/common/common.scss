@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kumbh Sans';
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    vertical-align: bottom;
+}
+
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+body {
+    background: var(--primaryColor);
+}
+
+:root {
+    --primaryColor: hsl(185, 75%, 39%);
+    --secondaryColor: hsl(229, 23%, 23%);
+    --accentColor: hsl(227, 10%, 46%);
+    --secAccentColor: hsl(0, 0%, 59%);
+    --cardColor: #fff;
+}
